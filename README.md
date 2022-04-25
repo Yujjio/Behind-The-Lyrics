@@ -6,7 +6,8 @@ steps to run website
 
 what you can do in the website
 1. see albums' rank list
-2. create an account for the website
-3. upload album you like
-4. click like button for the sentence you like
-5. write comments for the sentence that impressed you
+2. see category bar that used for searching
+3. create an account for the website
+4. upload album you like
+5. click like button for the sentence you like
+6. write comments for the sentence that impressed you
