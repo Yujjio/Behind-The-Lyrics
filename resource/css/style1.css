@@ -1,0 +1,33 @@
+body {
+  font-family: 'segoe ui';
+}
+.nav-header {
+  margin-left: 10px;
+  width: 90%;
+}
+.nav {
+  height: 50px;
+  width: 100.7%;
+  background: gray;
+  position: relative;
+  line-height: 50px;
+  left: -7px;
+  /*margin-right: 8px;*/
+  top: -8px;
+}
+.nav-links {
+  display: inline;
+  float: right;
+}
+#ranking {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+.menu {
+  padding: 13px 10px 13px 10px;
+  text-decoration: none;
+  color: #efefef;
+  cursor: pointer;
+  font-size: 18px;
+}

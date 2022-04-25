@@ -1,0 +1,52 @@
+html {
+	background-color: #F4F7F9;
+}
+#mainbody {
+	width: 1424px;
+	margin: auto;
+}
+#lyrics {
+	width: 600px;
+	text-align: center;
+	margin-left: 80px;
+	margin-right: 100px;
+}
+table {
+	width: 700px;
+	left: 50px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+}
+td {
+	width: 100px;
+}
+.like {
+	width: 40px;
+	height: auto;
+}
+.sentence {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	/*font-family: Lucida Console;*/
+	cursor: hand;
+}
+#comments {
+	width: 300px;
+	float: right;
+	display: inline;
+	height: 100%;
+	margin-left: 50px;
+}
+#output {
+  margin: 1em 0;
+  color: black;
+  background-color: #fee;
+  padding: 1em;
+  border: 1px solid #ddd;
+}
+#lyric_title {
+	text-align: center;
+}
+.comments {
+	width: 500px;
+}

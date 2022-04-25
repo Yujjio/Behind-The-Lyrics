@@ -1,0 +1,13 @@
+{
+	"title":"category",
+	"description": "",
+	"language": [
+		"Chinese", "English", "Japanese"
+	],
+	"style": [
+		"Pop", "Hip-hop", "Jazz", "Rock", "Country", "EDM", "Classic", "Punk", "Ballad"
+	],
+	"environment": [
+		"morning", "night", "work", "driving", "travel", "school", "sport", "bar", "romantic", "miss", "touching", "sad", "uplifting", "think"
+	]
+}
